@@ -1,8 +1,8 @@
-## Welcome to CUHKSZ Fiannce Brownbag Reading Group
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Welcome to CUHKSZ Fiannce Brownbag Reading Group
+This webpage is used to record 2022-2023 CUHKSZ SME Finance Brownbag Reading Group schedule. Check the following to find the topic you are interested in and corresponding paper, presentation time and location.
+## Presentation Schedule
+### Topic 1:
+Paper Name    Presenter   Location    [Slides](url)
 
 ```markdown
 Syntax highlighted code block
